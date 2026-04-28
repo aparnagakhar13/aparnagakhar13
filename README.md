@@ -1,5 +1,5 @@
-# 💫 About Me:
-```md id="x8p2kc"<br>👩‍💻 I’m currently working on Data Analysis Projects using Excel, SQL & Power BI<br><br>🤝 I’m looking to collaborate on Data Analytics, Dashboard Building & Real-world Projects<br><br>💛 I’m looking for help with Advanced SQL, Power BI & Job Opportunities<br><br>🌱 I’m currently learning DAX, Statistics & Data Visualization<br><br>💬 Ask me about Excel, SQL Queries, Power BI Dashboards & Data Cleaning<br><br>⚡ Fun fact: I love turning raw data into meaningful insights 📊<br>```<br>
+💫 About Me:
+👩‍💻 I’m currently working on Data Analysis Projects using Excel, SQL & Power BI🤝 I’m looking to collaborate on Data Analytics, Dashboard Building & Real-world Projects💛 I’m looking for help with Advanced SQL, Power BI & Job Opportunities🌱 I’m currently learning DAX, Statistics & Data Visualization💬 Ask me about Excel, SQL Queries, Power BI Dashboards & Data Cleaning⚡ Fun fact: I love turning raw data into meaningful insights 📊
 
 
 ## 🌐 Socials:
